@@ -1,0 +1,37 @@
+h1 {text-align: center;
+    color: royalblue;
+}
+
+.intro {text-align: justify;
+   text-indent: 10px;
+   font-size: large;
+}
+
+.imgh {
+
+    margin: 0px 20% 0px 41%;
+    border-radius: 10%;
+
+}
+
+.expl {text-align: center;}
+
+
+td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+table {
+    width: min(100%, 320px);
+    table-layout: fixed;
+   text-align: center;
+}
+
+
+a:hover {color: red;}
+
+
+body {
+    background-color: rgb(232, 242, 255)
+}
